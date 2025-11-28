@@ -2,3 +2,11 @@ future: true
 permalink: /:title/
 title: Encontrando Online
 
+# =========================================================
+# LINKS QUENTES GLOBAIS (aparecem em TODOS os posts)
+# =========================================================
+links_globais:
+  - nome: "Fórmula Negócio Online – O curso que mais vende no Brasil"
+    url: "https://go.hotmart.com/K9133139A"
+  - nome: "Pack Canva Profissional – Milhares de templates editáveis"
+    url: "https://go.hotmart.com/G55484998X"
